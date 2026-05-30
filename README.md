@@ -35,16 +35,15 @@ A simple **Java-based Employee Management System** that allows users to add, vie
 
 ## Project Structure
 
-Employee_Management_System/
-│
-├── src/
-│ ├── Employee_Management_System/
-│ │ ├── DAO/
-│ │ │ └── EmployeeDAO.java
-│ │ ├── model/
-│ │ │ └── Employee.java
-│ │ ├── service/
-│ │ │ └── EmployeeService.java
+- Employee_Management_System/
+  ─ src/
+  ─ Employee_Management_System/
+    - DAO/
+    - EmployeeDAO.java
+  ─ model/
+    ─ Employee.java
+  ─ service/
+    ─ EmployeeService.java
 │ │ ├── util/
 │ │ │ └── DBConnection.java
 │ │ └── Main.java
