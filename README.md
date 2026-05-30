@@ -41,19 +41,15 @@ A simple **Java-based Employee Management System** that allows users to add, vie
   ─ Employee_Management_System/
     - DAO/
     - EmployeeDAO.java
-  
   ─ model/
     ─ Employee.java
-
   ─ service/
     ─ EmployeeService.java
-
   ─ util/
     ─ DBConnection.java
-
   ─ Main.java
-├── README.md
-└── pom.xml (if using Maven)
+  ─ README.md
+  ─ pom.xml (if using Maven)
 
 
 ---
