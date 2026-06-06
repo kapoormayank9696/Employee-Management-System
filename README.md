@@ -9,7 +9,7 @@ This project demonstrates a complete CRUD application with a layered architectur
 A simple **Java-based Employee Management System** that allows users to add, view, search, update, and delete contacts. This project uses **JDBC** to connect with a **MySQL database** and demonstrates a full CRUD application using **Java**, **DAO pattern**, and **service layer architecture**.
 ---
 
-## Features
+# Features
 
 - **➕ Add new employee:** Store a new employee with name, phone, and email,phone,salary.
 - **📄 View all employees:** Display all employees stored in the database.
@@ -22,7 +22,7 @@ A simple **Java-based Employee Management System** that allows users to add, vie
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 - **Java 17+**
 - **MySQL 8+**
@@ -33,7 +33,7 @@ A simple **Java-based Employee Management System** that allows users to add, vie
 
 ---
 
-## Project Structure
+# Project Structure
 - ├── Employee_Management_System/
     - ├── src/
     - ├── Employee_Management_System/
@@ -50,7 +50,7 @@ A simple **Java-based Employee Management System** that allows users to add, vie
         - └─── pom.xml (if using Maven)
 ---
 
-## Setup & Run ⚡
+# Setup & Run ⚡
 
 ### 1. Database Setup
 
@@ -98,7 +98,7 @@ Salary: 800045
 ✅ Employee added successfully
 
 ---
-## 🧠 Learning Outcomes
+# 🧠 Learning Outcomes
 
 - JDBC database connectivity
 - CRUD operations in Java
@@ -109,7 +109,7 @@ Salary: 800045
 
 ----
 
-## 🔮 Future Improvements
+# 🔮 Future Improvements
 
 - Spring Boot REST API version
 - JavaFX GUI version
@@ -118,7 +118,7 @@ Salary: 800045
 - Global exception handling
 
 ---
-## License 📝
+# License 📝
 This project is open-source and available under the MIT License.
 
 Author
