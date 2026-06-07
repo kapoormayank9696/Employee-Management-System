@@ -41,6 +41,7 @@ A simple **Java-based Employee Management System** that allows users to add, vie
             - └─── EmployeeDAO.java
         - ├── model/
             - └─── Employee.java
+        - ├─  screenshots/
         - ├── service/
             - └─── EmployeeService.java
         ─ util/
